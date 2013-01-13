@@ -1,0 +1,134 @@
+<malyna>
+    <pin>
+        <id>1</id>
+        <label>3.3V</label>
+    </pin>
+    <pin>
+        <id>2</id>
+        <label>5V</label>
+    </pin>
+    <pin>
+        <id>3</id>
+        <direction>IN</direction>
+        <label>GPIO 0</label>
+    </pin>
+    <pin>
+        <id>4</id>
+        <label>--</label>
+    </pin>
+    <pin>
+        <id>5</id>
+        <label>GPIO 1</label>
+        <direction>OUT</direction>
+        <state>1</state>
+    </pin>
+    <pin>
+        <id>6</id>
+        <label>GROUND</label>
+    </pin>
+    <pin>
+        <id>7</id>
+        <label>GPIO 4</label>
+        <direction>OUT</direction>
+        <state>0</state>
+    </pin>
+    <pin>
+        <id>8</id>
+        <label>UART TX</label>
+    </pin>
+    <pin>
+        <id>9</id>
+        <label>--</label>
+    </pin>
+    <pin>
+        <id>10</id>
+        <label>UART RX</label>
+    </pin>
+    <pin>
+        <id>11</id>
+        <label>GPIO 11</label>
+        <direction>IN</direction>
+    </pin>
+    <pin>
+        <id>12</id>
+        <direction>OUT</direction>
+        <state>1</state>
+        <label>GPIO 18</label>
+    </pin>
+    <pin>
+        <id>13</id>
+        <direction>OUT</direction>
+        <state>1</state>
+        <label>GPIO 21</label>
+    </pin>
+    <pin>
+        <id>14</id>
+        <label>--</label>
+    </pin>
+    <pin>
+        <id>15</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 22</label>
+    </pin>
+    <pin>
+        <id>16</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 23</label>
+    </pin>
+    <pin>
+        <id>17</id>
+        <label>--</label>
+    </pin>
+    <pin>
+        <id>18</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 24</label>
+    </pin>
+    <pin>
+        <id>19</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 10</label>
+    </pin>
+    <pin>
+        <id>20</id>
+        <label>--</label>
+    </pin>
+    <pin>
+        <id>21</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 9</label>
+    </pin>
+    <pin>
+        <id>22</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 25</label>
+    </pin>
+    <pin>
+        <id>23</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 11</label>
+    </pin>
+    <pin>
+        <id>24</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 8</label>
+    </pin>
+    <pin>
+        <id>25</id>
+        <label>--</label>
+    </pin>
+    <pin>
+        <id>26</id>
+        <direction>OUT</direction>
+        <state>0</state>
+        <label>GPIO 7</label>
+    </pin>
+</malyna>
