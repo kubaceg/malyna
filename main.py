@@ -64,10 +64,12 @@ class MainWindow(Gtk.Window):
 
     def switched(self, widget, event, data):
         state = widget.get_active()
-        if(state == False):
-	  GPIO.output(int(data), GPIO.LOW)
-	else:
-	  GPIO.output(int(data), GPIO.HIGH)
+        if(state == True):
+            print 0
+            GPIO.output(int(data), GPIO.LOW)
+        else:
+            print 1
+            GPIO.output(int(data), GPIO.HIGH)
         
 
     def getValue(self, widget, event, data):
